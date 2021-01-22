@@ -35,3 +35,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# About
+簡単な自己紹介やアピール。
+どんなことができる、したいのか。
+
+## Profile
+- 名前（ハンドルネームも可）
+- 所在地（県や市まででOK）
+- 得意領域（Web開発、サーバー運用など）
