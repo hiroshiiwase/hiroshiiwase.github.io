@@ -1,7 +1,5 @@
 ![プロフィール写真](478b4cf1-private.png)
 
-<iframe src="https://www.openprocessing.org/sketch/1074469/embed/" width="400" height="400"></iframe>
-
 # About
 html/css辺りはそこそこ理解ですが、
 中心にプログラミング勉強中（Node.js/Unix/Postgresなど）。
@@ -30,6 +28,10 @@ html/css辺りはそこそこ理解ですが、
 
 # History
 - 2019年 株式会社A入社
+
+<iframe src="https://www.openprocessing.org/sketch/1074469/embed/" width="400" height="400"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.827853398555!2d139.76493611555088!3d35.68124053757847!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x277c49ba34ed38!2z5p2x5Lqs6aeF!5e0!3m2!1sja!2sjp!4v1611824130875!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 ## Welcome to GitHub Pages
 
